@@ -3,4 +3,3 @@
 https://github.com/cilium/ebpf/pull/1102 \
 https://github.com/cilium/cilium/pull/27269 \
 https://github.com/cilium/ebpf/pull/1071 \
-https://github.com/cilium/ebpf/pull/978
